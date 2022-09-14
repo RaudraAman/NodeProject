@@ -1,0 +1,14 @@
+{
+  "name": "nodedemo",
+  "version": "1.0.0",
+  "description": "\"first package\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test mocha"
+  },
+  "author": "Aman",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
